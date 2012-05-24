@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the banners home feature.
+ */
+
+include_once 'banners_home.features.inc';
